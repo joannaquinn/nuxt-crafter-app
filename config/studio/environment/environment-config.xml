@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<environment-config>
+<?xml version="1.0" encoding="UTF-8"?><environment-config>
+	<version>2</version>
    <preview-server-url>http://localhost:3000</preview-server-url>
    <authoring-server-url>http://localhost:8080/studio</authoring-server-url>
    <live-server-url>http://localhost:9080/?crafterSite=nuxt-crafter-site</live-server-url>
