@@ -1,3 +1,3 @@
 def result = [:]
-result.products = []
+result.conditions = []
 return result
