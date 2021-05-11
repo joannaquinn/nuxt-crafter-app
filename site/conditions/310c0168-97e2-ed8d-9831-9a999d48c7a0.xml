@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/condition</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>310c</objectGroupId>
+	<objectId>310c0168-97e2-ed8d-9831-9a999d48c7a0</objectId>
+	<file-name>310c0168-97e2-ed8d-9831-9a999d48c7a0.xml</file-name>
+	<description_t>Glaucoma is a common eye condition where the optic nerve, which connects the eye to the brain, becomes damaged.
+
+It's usually caused by fluid building up in the front part of the eye, which increases pressure inside the eye.
+
+Glaucoma can lead to loss of vision if it's not diagnosed and treated early.
+
+It can affect people of all ages, but is most common in adults in their 70s and 80s.</description_t>
+	<internal-name>glaucoma</internal-name>
+	<title_s>Glaucoma</title_s>
+	<createdDate>2021-05-11T13:18:39.666Z</createdDate>
+	<createdDate_dt>2021-05-11T13:18:39.666Z</createdDate_dt>
+	<lastModifiedDate>2021-05-11T13:18:39.666Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-11T13:18:39.666Z</lastModifiedDate_dt>
+</component>
