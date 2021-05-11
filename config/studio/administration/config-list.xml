@@ -46,14 +46,6 @@
             <description>confTabSiteConfigurationDesc</description>
             <samplePath>sample-site-config.xml</samplePath>
         </file>
-        <!-- added environment config -->
-        <file>
-            <module>studio</module>
-            <path>environment/environment-config.xml</path>
-            <title>confTabEnvironment</title>
-            <description>confTabSiteEnvironmentDesc</description>
-            <samplePath>environment-config.xml</samplePath>
-        </file>
         <file>
             <module>studio</module>
             <path>context-nav/sidebar.xml</path>
