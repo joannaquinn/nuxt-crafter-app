@@ -29,6 +29,7 @@
     <!-- Site URLs. Default to http://localhost:8080 if blank -->
     <site-urls>
         <preview-server-url>http://localhost:3000</preview-server-url>
+        <preview-server-url>http://127.0.0.1:3000</preview-server-url>
         <authoring-server-url>http://localhost:8080/studio</authoring-server-url>
         <live-server-url>http://localhost:9080/?crafterSite=nuxt-crafter-site</live-server-url>
     </site-urls>
