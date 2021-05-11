@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/condition</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1750</objectGroupId>
+	<objectId>1750d442-2cef-7e94-568f-d115c66b51d9</objectId>
+	<internal-name>keratoconus</internal-name>
+	<title_s>Keratoconus</title_s>
+	<description_t>Keratoconus occurs when your cornea — the clear, dome-shaped front surface of your eye — thins and gradually bulges outward into a cone shape.
+
+A cone-shaped cornea causes blurred vision and may cause sensitivity to light and glare. Keratoconus usually affects both eyes, though it often affects one eye more than the other. It generally begins to affect people between the ages of 10 and 25. The condition may progress slowly for 10 years or longer.</description_t>
+	<file-name>1750d442-2cef-7e94-568f-d115c66b51d9.xml</file-name>
+	<createdDate>2021-05-11T13:16:18.029Z</createdDate>
+	<createdDate_dt>2021-05-11T13:16:18.029Z</createdDate_dt>
+	<lastModifiedDate>2021-05-11T13:16:18.029Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-11T13:16:18.029Z</lastModifiedDate_dt>
+</component>
