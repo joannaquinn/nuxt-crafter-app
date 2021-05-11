@@ -6,7 +6,7 @@ import org.elasticsearch.search.sort.SortOrder
 
 def result = [:]
 
-def queryStatement = 'content-type:"/component/product"'
+def queryStatement = 'content-type:"/component/condition"'
 
 def builder = new SearchSourceBuilder().query(QueryBuilders.queryStringQuery(queryStatement))
 
