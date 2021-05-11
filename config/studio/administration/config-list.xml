@@ -49,7 +49,7 @@
         <!-- added environment config -->
         <file>
             <module>studio</module>
-            <path>environment-config.xml</path>
+            <path>environment/environment-config.xml</path>
             <title>confTabEnvironment</title>
             <description>confTabSiteEnvironmentDesc</description>
             <samplePath>environment-config.xml</samplePath>
