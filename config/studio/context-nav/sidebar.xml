@@ -108,6 +108,16 @@
                                 <modulehook>
                                     <name>wcm-root-folder</name>                                    
                                     <params>
+                                        <label>Conditions</label>
+                                        <path>/site</path>
+                                        <showRootItem>true</showRootItem>
+                                        <onClick>preview</onClick>
+                                    </params>
+                                </modulehook>
+                                
+                                <modulehook>
+                                    <name>wcm-root-folder</name>                                    
+                                    <params>
                                         <label>Pages</label>
                                         <path>/site/website</path>
                                         <showRootItem>true</showRootItem>
